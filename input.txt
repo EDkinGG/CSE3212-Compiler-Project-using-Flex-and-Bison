@@ -1,4 +1,4 @@
-#Attach matha.h
+#Attach matha.h 
 
 def fn (( int_d a , int_d b ))
 {
