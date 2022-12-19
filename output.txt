@@ -1,0 +1,170 @@
+
+Header File Found!
+
+
+Valid func param declaration-2!
+
+Valid func param declaration-1!
+
+empty here 
+
+Sum value 15
+
+Valid declaration!
+
+FUNC Declared!
+
+
+Valid declaration!
+
+Valid declaration!
+
+Valid declaration!
+
+Sum value 14
+
+Multiplication value 28
+
+Division value 14
+
+Remainder value 4
+
+Valid declaration!
+
+0 less check val 
+
+0 great check val 
+
+1 eqeq check val 
+
+1 less eq check val 
+
+1 great eq check val 
+
+0 not eq check val 
+
+Value of Sin(30) is 0.500001
+
+Value of Cos(30) is 0.866025
+
+Value of Tan(30) is 0.577352
+
+Value of Log10(1000) is 3.000000
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable x4:  2	
+
+
+Value of ln(100) is 4.605170
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable x5:  4	
+
+
+value provided for OddEven function is 4 which is even
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable x6:  0	
+
+
+Factorial of 5 is 120
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable x7:  120	
+
+
+MAX 10 
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable x8:  10	
+
+
+MIN 5 
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable x9:  5	
+
+
+13 is prime 
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable pp:  1	
+
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable ex:  10	
+
+
+Valid declaration!
+
+value provided for OddEven function is 11 which is odd
+
+WRITE_FUNC--> Value of the variable rahat:  11	
+
+
+if executed 
+
+WRITE_FUNC--> Value of the variable rahat:  11	
+
+
+WRITE_FUNC--> Value of the variable rahat:  12	
+
+
+WRITE_FUNC--> Value of the variable rahat:  11	
+
+
+WRITE_FUNC--> Value of the variable rahat:  0	
+
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable ii:  0	
+
+for loop exp increasing 5
+for loop exp increasing 7
+
+
+WRITE_FUNC--> Value of the variable ii:  7	
+
+for loop exp increasing 5
+for loop exp increasing 6
+
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable rahat:  0	
+
+While loop exp increasing jj : 1
+While loop exp increasing jj : 2
+While loop exp increasing jj : 3
+While loop exp increasing jj : 4
+While loop exp increasing jj : 5
+While loop exp increasing jj : 6
+While loop exp increasing jj : 7
+While loop exp increasing jj : 8
+
+Valid declaration!
+
+WRITE_FUNC--> Value of the variable ex:  10	
+
+
+WRITE_FUNC--> Value of the variable ex:  10	
+
+
+Executed choice 2
+
+WRITE_FUNC--> Value of the variable ex:  10	
+
+single line comment
+multiple_line_comment
+READ is successful.
+
+Program successfully ended

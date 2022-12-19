@@ -1,0 +1,130 @@
+#Attach matha.h
+
+def fn (( int_d a , int_d b ))
+{
+	a = 5;#
+	int_d ans = a+10;#
+}
+
+s_start(())
+{
+	int_d aa, ab1 , bb;#
+	float_f xd;#
+	string std;#
+
+	aa = 4 ;#
+	bb = 7 ;#
+	ab1 = bb + 7 ;#
+	ab1 = ab1 * 2;#
+	ab1 = ab1/2;#
+	ab1 = ab1 mod 5;#
+	int_d chk;#
+	chk = aa less ab1;#
+	chk = aa great ab1;#
+	chk = aa eqeq ab1;#
+	chk = aa less_eq ab1;#
+	chk = aa great_eq ab1;#
+	chk = aa noteq ab1;#
+
+	sin((30));#
+
+	cos((30));#
+
+	tan((30));#
+
+	int_d x4 = log10((1000));#
+	display((x4));#
+
+	int_d x5 = ln((100));#
+	display((x5));#
+
+	int_d x6 = oddEven((aa));#
+	display((x6));#
+
+	int_d x7 = fctrl((5));#
+	display((x7));#
+
+	int_d x8 = sobar_boro((10,5));#
+	display((x8));#
+
+	int_d x9 = sobar_choto((10,5));#
+	display((x9));#
+
+	int_d pp = prime_num((13));#
+	display((pp));#
+
+	int_d ex = 10;#
+	display((ex));#
+
+	int_d rahat = 11;#
+
+
+	jodi(( oddEven((rahat)) ))
+	{
+		display((rahat));#
+	}	
+	naHoy
+	{
+		display((rahat));#
+	}
+
+
+
+	rahat#++;#
+	display((rahat));#
+
+	rahat#-- ;#
+	display((rahat));#
+
+	rahat!# ;#
+	display((rahat));#
+	
+	int_d ii = 0;#
+
+
+
+	go_for(( ii = 5 , i less_eq 7 , i pstep 2 ))
+	{
+		display((ii));#
+	}
+
+
+	go_for(( ii = 5 , i less 7 , i pstep 1 ))
+	{
+		display((ii));#
+	}
+
+
+
+	int_d jj = 0;#
+	go_till(( jj less 9))
+	{
+		display((rahat));#
+	}
+
+	
+
+	int_d dd;#
+	dd = 2;#
+
+	switch_case dd
+	{
+		choice 1:
+			display((ex));#
+			baireJah;#
+		choice 2:
+			display((ex));#
+			baireJah;#
+		standby:
+			display((ex));#
+
+	}
+
+	//~Skip this
+	/~Skip
+	these
+	line~/
+	
+	poro((dd));#
+
+}
